@@ -23,7 +23,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             $_POST['email'] = '';
             $_POST['celular'] = '';
         } else {
-            $message = "<div class='message' style='color: red;'>Erro ao cadastrar cliente.</div>";
+            $message = "<div class='message' style='color: red;'>Erro ao cadastrar cliente. Tente novamente.</div>";
         }
 
         $mysqli->close();
