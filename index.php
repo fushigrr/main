@@ -27,7 +27,7 @@
         </div>
         
         <div class="filme">
-            <img src="img/jack.jpg" alt="O Estranho Mundo de Jack">
+            <img src="img/jack.jpg" alt="O Estranho Mundo de">
             <h3>O Estranho Mundo de Jack</h3>
         </div>
         
